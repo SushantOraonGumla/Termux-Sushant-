@@ -1,0 +1,20 @@
+This is the introduction file for the maths notes that I am going to to build over a period of times.
+This is going to be short notes and key ideas of every chapters of mathematics.
+Since I can write only in english and have access to the limited symbol support thid will be enough for the 10th level maths.
+
+Table of Contents 
+Number System
+Decimals
+Fractions
+LCM HCF
+Ratio and Proportions
+Percentage
+Mensuration
+Time and Work
+Time and Distance
+Simple and Compound Interest
+Profit loss 
+Elementary Algegra
+Geometry and Trignometry
+Elementary statistics
+
