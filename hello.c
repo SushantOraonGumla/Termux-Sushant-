@@ -44,7 +44,7 @@ void TemperatureTable(){
 	printf("Celsius    Farenheit\n");
 	for(celsius=MIN;celsius<=MAX;celsius+=STEP){
 		farenhiet =(9 * celsius)/5 + 32.0;
-		printf("  %3d        %3.1f\n",celsius,farenhiet);
+		printf("  %03d        %03.1f\n",celsius,farenhiet);
 	}
 
 }
